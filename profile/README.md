@@ -1,4 +1,4 @@
-![title](../images/beamify-banner.png)
+![Beamify](../images/beamify-banner.png)
 # Welcome to Beamify!
 
 Beamify is a community where brands, creators, and innovators come together to validate, refine, and bring ideas to life.
