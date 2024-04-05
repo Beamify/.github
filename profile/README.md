@@ -1,4 +1,4 @@
-![Beamify](../images/beamify-banner.png)
+![Beamify](https://github.com/Beamify/.github/blob/main/images/beamify-banner.png)
 # Welcome to Beamify!
 
 Beamify is a community where brands, creators, and innovators come together to validate, refine, and bring ideas to life.
